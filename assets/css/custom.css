@@ -1,0 +1,5 @@
+/* configure sidebar font */
+.sidebar-about h1 {
+    font-size: 1.4em;
+    font-family: "Courier", monospace;
+  }

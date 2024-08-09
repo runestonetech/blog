@@ -1,8 +1,0 @@
-[submodule "public"]
-	path = public
-	url = https://github.com/runestonetech/runestonetech.github.io
-	branch = main
-[submodule "runestonetech.github.io"]
-	path = runestonetech.github.io
-	url = https://github.com/runestonetech/runestonetech.github.io.git
-	branch = main

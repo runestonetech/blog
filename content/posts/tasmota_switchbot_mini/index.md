@@ -1,6 +1,6 @@
 ---
 title: "SwitchBot Mini Smart Plugs with Tasmota + Home Assistant"
-date: "2023-03-22"
+date: "2024-03-22"
 description: "Comprehensive guide to flashing Tasmota on smart plugs and adding them to Home Assistant"
 summary: "In this step-by-step guide we will install Tasmota firmware on our SwitchBot Mini smart plugs, then add them to Home Assistant for monitoring and power control."
 series: "home assistant"
@@ -170,5 +170,5 @@ That said, once you have the initial tools setup and you're more comfortable wit
 
 ### Version History:
 **Author:** blackfeather@runestone.tech
-**Version:** 1.02
+**Version:** 1.03
 **Last Updated:** 3-22-2024
